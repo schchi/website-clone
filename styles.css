@@ -1,0 +1,30 @@
+.text-white {
+  text-color:white;
+}
+
+.bg-lightgreen {
+  background-color: #c1d1bc;
+}
+.bg-greener {
+  background-color: #405147;
+}
+
+.btn-brightgreen {
+  background-color: #5fac75;
+  text-color: black;
+}
+
+.navbar-pd {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.body {
+  background-color:
+}
+
+.no-bg {
+  background-color: transparent !important;
+  border: 0px;
+  
+}
